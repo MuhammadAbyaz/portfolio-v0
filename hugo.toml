@@ -1,5 +1,5 @@
 languageCode = 'en-us'
-baseURL = "abyaz.netlify.app"
+baseURL = "https://abyaz.netlify.app"
 title = "Muhammad Abyaz | Engineering Student"
 
 ignoreErrors = ["error-remote-getjson"]
